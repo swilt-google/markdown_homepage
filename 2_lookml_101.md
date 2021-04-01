@@ -33,7 +33,7 @@
 
   <div style="text-align: left; font-size: 17px;">
     <p style="font-weight: 300; margin-top: 25px;"> 4. <a target="_blank" href="https://docs.looker.com/data-modeling/getting-started/setting-up-git-connection" style="font-weight:500">Set up Git:</a>
-    To support a multi-developer environment, Looker is integrated with Git for version control. Make sure Git is set up for your project. To edit LookML you have to toggle Develop Mode on, under the Develop drop down.
+    To support a multi-developer environment, Looker is integrated with Git for version control. Make sure Git is set up for your project. To edit LookML you have to toggle <span style="font-style: italic;">Develop Mode</span> on, under the Develop drop down.
     In ‘Developer Mode’, changes you make to the LookML model exist only in your account until you commit the changes, and push them to your production model. </p>
 
   </div>

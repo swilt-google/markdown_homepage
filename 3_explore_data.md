@@ -13,7 +13,7 @@ Exploring and Visulizing Data</h1>
 <div style=" float: left; margin-bottom: 15px; width: 100%;">
   <h5 style="float: left; padding: 15px 25px; background-color: #1A73E8; border-radius: 5px; width: 240px; margin: 10px 15px 20px 0; text-align: center;"><a target="_blank" style="color: #fff;" href="https://docs.looker.com/exploring-data/exploring-data">Exploring Data</a></h5>
   <div style="text-align: left; font-size: 17px;">
-    <p style="font-weight: 300; margin-top: 10px;">Learn to use the Explore interface to find insights in your data.</p>
+    <p style="font-weight: 300; margin-top: 12px;">Learn to use the Explore interface to find insights in your data.</p>
   </div>
 </div>
 
@@ -27,7 +27,7 @@ Exploring and Visulizing Data</h1>
 <div style=" float: left; margin-bottom: 15px; width: 100%;">
   <h5 style="float: left; padding: 15px 25px; background-color: #1A73E8; border-radius: 5px; width: 240px; margin: 10px 15px 20px 0; text-align: center;"><a target="_blank" style="color: #fff;" href="https://docs.looker.com/dashboards/creating-dashboards-beta">Creating Dashboard</a></h5>
   <div style="text-align: left; font-size: 17px;">
-    <p style="font-weight: 300; margin-top: 10px;">Create entry points into the data with dashboards.</p>
+    <p style="font-weight: 300; margin-top: 12px;">Create entry points into the data with dashboards.</p>
   </div>
 </div>
 

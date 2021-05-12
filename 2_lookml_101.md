@@ -6,7 +6,7 @@
     The Looker application uses a model written in LookML to construct SQL queries against a particular database that business analysts can
     <a target="_blank" href="https://docs.looker.com/r/exploring-data">Explore</a> on.
     For an overview on the basics of LookML, see <a target="_blank" href="http://www.looker.com/docs/data-modeling/learning-lookml/what-is-lookml">What is LookML?</a>
-    </br></br> In order to get started with LookML, follow these steps:.</p>
+    <p>In order to get started with LookML, follow these steps:.</p></p>
   </div>
 
 

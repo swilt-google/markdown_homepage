@@ -1,7 +1,7 @@
 <div style="width: 100%; text-align: center; font-family: 'Google Sans',Helvetica,Arial,sans-serif, sans-serif; ">
 <div style="background: #8b7da7; ">
   <p style="width: 100%; background: #FFA800; font-weight: 300; color: #fff; padding: 15px 0px; font-size: 20px;">
-  <span style="font-weight: 500;">Trial End Date:</span> July 9, 2021</p>
+  <span style="font-weight: 500;">Trial End Date:</span> July 10, 2021</p>
 </div>
 <h1 style="padding: 30px 0 15px; font-weight:500; margin-bottom: 0; font-weight: 600;">Welcome to your Looker Trial</h1>
 
